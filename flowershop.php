@@ -1,5 +1,7 @@
 <?php
+    echo "Hellow World2";
 
+/*
 //dbinfo
 $servername = "flowershop1.c1afi6dhlbym.us-west-1.rds.amazonaws.com";
 $rootuser = "admin";
@@ -38,6 +40,7 @@ $query = "SELECT * FROM CUSTOMER WHERE PhoneNumber='$phonenumber'";
         }
 
 mysqli_close($db);
+*/
 
 
 ?>
