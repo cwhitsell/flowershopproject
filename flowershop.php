@@ -1,5 +1,4 @@
 <?php
-    echo "Hellow World2";
 
 
 //dbinfo
