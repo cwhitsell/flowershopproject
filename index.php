@@ -23,7 +23,6 @@
  
  
  <?php
-    echo "Hello world1";
     
 
 //dbinfo
