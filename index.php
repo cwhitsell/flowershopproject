@@ -24,6 +24,7 @@
  
  <?php
 
+    /*
     //dbinfo
     $servername = "flowershop1.c1afi6dhlbym.us-west-1.rds.amazonaws.com";
     $rootuser = "admin";
@@ -48,6 +49,6 @@
     while ($row = mysqli_fetch_array($result)) {
         echo  $row['PhoneNumber'] . '<br />';
         }
-
+*/
     
  ?>
